@@ -5,7 +5,7 @@ import select
 #select module doesn't work in windows environment but will work in cygwin terminal 
 #this program  works in linux terminals 
 ''' 
-Code authored by Siva Babu A
+Code authored by Nookesh P
 This program is server side code which is written following this protocol-->
                 sending connection request
     client    ------------------------>      server
